@@ -111,7 +111,7 @@ print(y_prednew)
 
 <img width="482" height="222" alt="515693891-9fd73baa-6256-4c47-95e9-8e4095f631a9" src="https://github.com/user-attachments/assets/5ab0f0b1-327d-471c-bf75-8270dcbce8b0" />
 
-<img width="482" height="222" alt="515693891-9fd73baa-6256-4c47-95e9-8e4095f631a9" src="https://github.com/user-attachments/assets/8a37e0b8-df0d-4ab4-9624-0185b60ee4eb" />
+
 
 #  RESULTS:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
